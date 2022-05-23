@@ -1,0 +1,38 @@
+html{
+    background:  linear-gradient(#355e3b, #f9f6ee);
+}
+
+.container h1{
+    color:black;  
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.container{
+    text-align: center;
+    text-decoration: none;
+    padding-left: 40px ;
+    padding-right:40px ;
+    padding-top:20px;
+    background-color: #fff	;
+    border-radius: 50px;
+    box-shadow: 0 0 10px;
+    min-height: 940px;
+    max-width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+
+h3{
+    color:black;
+}
+h4{
+    color:black;
+}
+
+li{
+    list-style-position: inside;
+    list-style-type: square;
+
+}
