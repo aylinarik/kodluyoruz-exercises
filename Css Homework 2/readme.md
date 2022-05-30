@@ -1,4 +1,4 @@
-#The design of the Google 1998 version was created using html and css.
+# The design of the Google 1998 version was created using Html and Css.
 
 
 ## Screenshot
