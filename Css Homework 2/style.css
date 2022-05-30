@@ -1,0 +1,138 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* logo başlangıcı */
+.logo {
+    display: flex;
+    justify-content: center;
+}
+
+/* logo bitişi */
+
+/* arama butonu başlangıcı */
+.aramalanı {
+    width: 90%;
+    height: 60px;
+    background-color: rgba(0, 0, 0, 0.124);
+    margin: auto;
+}
+
+.aramalanı p {
+    display: flex;
+    justify-content: center;
+    margin: 0;
+}
+
+.aramalanı #arama {
+    width: 330px;
+    display: flex;
+    margin: auto;
+}
+
+
+.detail1 {
+    display: flex;
+    min-height: 0px;
+}
+
+.detail2 {
+    justify-content: center;
+}
+
+/* arama butonu bitişi */
+
+
+/* son kışım başlangıç  */
+
+.information {
+    display: flex;
+    margin-top: 10px;
+    justify-content: center;
+    height: 75px;
+    font-size: 13px;
+
+}
+
+.information1 {
+    width: 33%;
+    background: rgba(126, 229, 218, 255);
+    justify-content: center;
+    padding-top: 10px;
+
+}
+
+.information1 p {
+    display: flex;
+    justify-content: center;
+}
+
+.information1 a {
+    display: flex;
+    justify-content: center;
+}
+
+.information2 {
+    width: 17%;
+    background: rgba(112, 204, 194, 255);
+    margin-left: 2px;
+
+
+}
+
+.information2 p {
+    display: flex;
+    justify-content: center;
+}
+
+.information2 a {
+    display: flex;
+    justify-content: center;
+
+
+
+}
+
+.information2 li {
+    list-style-type: none;
+}
+
+.information3 {
+    width: 40%;
+    background: rgba(98, 179, 170, 255);
+    margin-left: 2px;
+
+
+}
+
+.information3 p {
+    display: flex;
+    justify-content: center;
+}
+
+.information3 a {
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.information3 li {
+    list-style-type: none;
+}
+
+#inputmail {
+    width: 180px;
+    display: flex;
+    margin: auto;
+
+}
+
+
+.archive {
+    font-size: 14px;
+    padding-top: 5px;
+}
+
+/* son kısım bitiş */
